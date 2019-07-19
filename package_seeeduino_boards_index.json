@@ -1366,7 +1366,7 @@
           "name": "kflash",
           "systems": [
             {
-              "url": "https://github.com/Seeed-Studio/ArduinoCore-k210/raw/kendryte-standalone-sdk/tools/win_kflash_py_v1.3.0.zip",
+              "url": "https://github.com/LynnL4/res/raw/master/win_kflash_py_v1.3.0.zip",
               "checksum": "SHA-256:341D4C3E6589557FDFD93FA2F0CC1B4EECE625A4DE147B871ACA871E91CC3FD1",
               "host": "i686-mingw32",
               "archiveFileName": "win_kflash_py_v1.3.0.zip",
