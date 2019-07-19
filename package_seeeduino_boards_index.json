@@ -1367,10 +1367,10 @@
           "systems": [
             {
               "url": "https://github.com/LynnL4/res/raw/master/win_kflash_py_v1.3.0.zip",
-              "checksum": "SHA-256:341D4C3E6589557FDFD93FA2F0CC1B4EECE625A4DE147B871ACA871E91CC3FD1",
+              "checksum": "SHA-256:2FDE4141A32BBBB17184D3110FE270210C3792B593CBA4182ED6F37BCFE8163A",
               "host": "i686-mingw32",
               "archiveFileName": "win_kflash_py_v1.3.0.zip",
-              "size": "5240691"
+              "size": "6863414"
             },
             {
               "url": "https://github.com/Seeed-Studio/ArduinoCore-k210/raw/kendryte-standalone-sdk/tools/linux_kflash_v1.3.0.tar.bz2",
