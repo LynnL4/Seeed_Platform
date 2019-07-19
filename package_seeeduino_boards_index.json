@@ -1298,10 +1298,10 @@
           "architecture": "riscv64",
           "category": "Contributed",
           "version": "1.3.0",
-          "url": "https://github.com/Seeed-Studio/ArduinoCore-k210/archive/v1.3.zip",
-          "checksum": "SHA-256:3D857F83BDB5769AB5E6BC88AE1A41F50EBEF346E9176380C1743BAD8C0D7A2E",
-          "archiveFileName": "ArduinoCore_k210_v1.3.zip",
-          "size": "8134274",
+          "url": "https://github.com/Seeed-Studio/ArduinoCore-k210/archive/v1.2.zip",
+          "checksum": "SHA-256:CF7FC780FBEBCE9761BAA7A4799105D45232EE62BD14782CEC901A114C795982",
+          "archiveFileName": "ArduinoCore_k210_v1.2.zip",
+          "size": "6942333",
           "boards": [
               { 
                 "name": "Seeed K210 Pi"
