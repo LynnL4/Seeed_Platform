@@ -1298,10 +1298,10 @@
           "architecture": "riscv64",
           "category": "Contributed",
           "version": "1.3.0",
-          "url": "https://github.com/Seeed-Studio/ArduinoCore-k210/archive/v1.2.zip",
-          "checksum": "SHA-256:CF7FC780FBEBCE9761BAA7A4799105D45232EE62BD14782CEC901A114C795982",
-          "archiveFileName": "ArduinoCore_k210_v1.2.zip",
-          "size": "6942333",
+          "url": "https://github.com/Seeed-Studio/ArduinoCore-k210/archive/v1.3.zip",
+          "checksum": "SHA-256:980A3483A1AC93DBDA48DC3BD845D5C59A0F7932A4BB827B23048BA1A58117D2",
+          "archiveFileName": "ArduinoCore_k210_v1.3.zip",
+          "size": "8134054",
           "boards": [
               { 
                 "name": "Seeed K210 Pi"
@@ -1367,10 +1367,10 @@
           "systems": [
             {
               "url": "https://github.com/LynnL4/res/raw/master/win_kflash_py_v1.3.0.zip",
-              "checksum": "SHA-256:2FDE4141A32BBBB17184D3110FE270210C3792B593CBA4182ED6F37BCFE8163A",
+              "checksum": "SHA-256:5E29EA02FF966167489B8DE3DCBBAF675D9CEB4D96EC4BFB904FD854CD217C8B",
               "host": "i686-mingw32",
               "archiveFileName": "win_kflash_py_v1.3.0.zip",
-              "size": "6863414"
+              "size": "6863354"
             },
             {
               "url": "https://github.com/Seeed-Studio/ArduinoCore-k210/raw/kendryte-standalone-sdk/tools/linux_kflash_v1.3.0.tar.bz2",
