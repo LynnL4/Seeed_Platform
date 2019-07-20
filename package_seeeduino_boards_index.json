@@ -1299,7 +1299,7 @@
           "category": "Contributed",
           "version": "1.3.0",
           "url": "https://github.com/Seeed-Studio/ArduinoCore-k210/archive/v1.3.zip",
-          "checksum": "SHA-256:980A3483A1AC93DBDA48DC3BD845D5C59A0F7932A4BB827B23048BA1A58117D2",
+          "checksum": "SHA-256:0A81922D5C9A60BD1F7CD9E5173C8490390728ED1AACCC5E8AE832B1D7CCF6DE",
           "archiveFileName": "ArduinoCore_k210_v1.3.zip",
           "size": "8134054",
           "boards": [
